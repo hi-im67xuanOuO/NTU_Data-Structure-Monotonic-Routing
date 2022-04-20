@@ -8,6 +8,8 @@ parser.add_argument("--output", type=str, default = './500x500.out',help="Output
 Result will show in the .out file after succesfully running.
 
 ### My Result
-./5x5.in      run time: 0.0
-./50x50.in    run time: 0.011
-./500x500.in  run time: 0.831
+* ./5x5.in      run time: 0.0
+
+* ./50x50.in    run time: 0.011
+
+* ./500x500.in  run time: 0.831
